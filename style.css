@@ -1,0 +1,10 @@
+img {
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+}
+#house-detail {
+    width: 500px;
+    height: 500px;
+    border: 1px double cadetblue;
+}
